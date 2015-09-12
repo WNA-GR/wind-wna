@@ -3,7 +3,8 @@
  * WiND - Wireless Nodes Database
  *
  * Copyright (C) 2005 Nikolaos Nikalexis <winner@cube.gr>
- * 
+ * Copyright (C) 2010 Leonidas Papadopoulos <leonidas@wna.gr>
+ *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; version 2 dated June, 1991.
@@ -18,6 +19,7 @@
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
  *
  */
+
 
 include_once(ROOT_PATH."includes/html.php");
 include_once(ROOT_PATH."globals/classes/userdata.php");

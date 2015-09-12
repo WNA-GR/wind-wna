@@ -3,6 +3,8 @@
  * WiND - Wireless Nodes Database
  *
  * Copyright (C) 2005 Nikolaos Nikalexis <winner@cube.gr>
+ * Copyright (C) 2007 John Kolovos <cirrus@awmn.net>
+ * Copyright (C) 2010 Leonidas Papadopoulos <leonidas@wna.gr>
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -18,6 +20,7 @@
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
  *
  */
+
 
 /* el_GR for GNU/Linux - ell for Windows */
 setlocale(LC_ALL, 'el_GR', 'ell');

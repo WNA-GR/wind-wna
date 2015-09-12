@@ -6,7 +6,7 @@
 # -----------
 # If it is needed, this script  updates a DNS zone file from another 
 # php-generated zone file. 
-# It is meant to be used by the WiND project (http://wind.cube.gr).
+# It is meant to be used by the WiND-WNA project (http://wind.wna.gr).
 
 
 # Notes
