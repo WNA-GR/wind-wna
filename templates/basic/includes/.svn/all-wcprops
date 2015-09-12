@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/branches/wind-php5/templates/basic/includes
+END
+head.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/head.tpl
+END
+main_footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/branches/wind-php5/templates/basic/includes/main_footer.tpl
+END
+main_menu_form_login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/main_menu_form_login.tpl
+END
+html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/html.tpl
+END
+main_menu.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/main_menu.tpl
+END
+main_menu_logged.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/main_menu_logged.tpl
+END
+main_header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/main_header.tpl
+END
+body.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/branches/wind-php5/templates/basic/includes/body.tpl
+END

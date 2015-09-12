@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes
+END
+nodes_contact_form_contact.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_contact_form_contact.tpl
+END
+nodes_view_table_nameservers.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_view_table_nameservers.tpl
+END
+nodes_contact.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_contact.tpl
+END
+nodes_plot_link.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_plot_link.tpl
+END
+comments.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/comments.tpl
+END
+nodes_view_table_links_ap.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_view_table_links_ap.tpl
+END
+nodes_view_table_links_p2p.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_view_table_links_p2p.tpl
+END
+nodes_search.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_search.tpl
+END
+nodes_view_table_ipaddr_subnets.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_view_table_ipaddr_subnets.tpl
+END
+nodes_view_table_ip_ranges.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_view_table_ip_ranges.tpl
+END
+node_info.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/node_info.tpl
+END
+nodes_view.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_view.tpl
+END
+link_info.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/link_info.tpl
+END
+nodes_view_table_services.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_view_table_services.tpl
+END
+nodes_view_table_dns.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/nodes_view_table_dns.tpl
+END
+myview.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/nodes/myview.tpl
+END

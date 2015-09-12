@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic
+END
+title1.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/title1.tpl
+END
+title2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/title2.tpl
+END
+qs.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/qs.tpl
+END
+title3.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/title3.tpl
+END
+title4.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/title4.tpl
+END
+title5.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/title5.tpl
+END
+help.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/help.tpl
+END
+photosview_image.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/photosview_image.tpl
+END
+page-title.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/page-title.tpl
+END
+link.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/link.tpl
+END
+plot.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/generic/plot.tpl
+END

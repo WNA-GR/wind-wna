@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian/control
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian/dirs
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian/compat
+END
+init
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian/init
+END
+install
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian/install
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian/rules
+END
+manpages
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian/manpages
+END
+examples
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/branches/wind-php5/tools/whoind/debian/examples
+END

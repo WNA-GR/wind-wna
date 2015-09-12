@@ -1,0 +1,10 @@
+;wind.wna.gr-reverse
+
+$ORIGIN .
+
+##NAMESERVERS##
+
+##ZONES##
+
+;Reverse backbone records
+##PTR##

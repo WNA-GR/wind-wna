@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/ranges
+END
+ranges_allocation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/ranges/ranges_allocation.tpl
+END
+ranges_search.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/ranges/ranges_search.tpl
+END
+ranges.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/ranges/ranges.tpl
+END

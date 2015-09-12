@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/pickup
+END
+pickup_nodes.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/pickup/pickup_nodes.tpl
+END
+pickup_dns_nameservers.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/pickup/pickup_dns_nameservers.tpl
+END
+pickup_links_ap.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/pickup/pickup_links_ap.tpl
+END
+pickup_users.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/pickup/pickup_users.tpl
+END
+pickup_gmap.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/pickup/pickup_gmap.tpl
+END

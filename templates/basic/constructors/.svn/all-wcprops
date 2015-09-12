@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/constructors
+END
+form.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/constructors/form.tpl
+END
+message.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/constructors/message.tpl
+END
+form_enum.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/constructors/form_enum.tpl
+END
+table.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/constructors/table.tpl
+END
+table2.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/constructors/table2.tpl
+END

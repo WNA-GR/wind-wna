@@ -1,0 +1,70 @@
+8
+
+dir
+12
+http://wind.googlecode.com/svn/branches/wind-php5/globals
+http://wind.googlecode.com/svn
+
+
+
+2007-04-13T18:59:29.159230Z
+5
+cirrusj
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4b657b6b-7d1d-0410-8205-f5d88b48e641
+
+vars.php
+file
+
+
+
+
+2008-09-11T09:23:28.462000Z
+cae42870c66ca5a4db406866099e3931
+2007-04-13T18:59:29.159230Z
+5
+cirrusj
+
+language
+dir
+
+classes
+dir
+
+common.php
+file
+
+
+
+
+2008-09-11T09:23:28.467000Z
+75031a0fa726c4fd81e5dcc1f776ddf7
+2007-04-13T18:59:29.159230Z
+5
+cirrusj
+
+functions.php
+file
+
+
+
+
+2008-09-11T09:23:28.470000Z
+c8283d1e806dc909d777886c760d6d0a
+2007-04-13T18:59:29.159230Z
+5
+cirrusj
+

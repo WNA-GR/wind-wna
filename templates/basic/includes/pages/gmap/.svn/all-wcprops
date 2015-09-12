@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/gmap
+END
+gmap_fullmap.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/gmap/gmap_fullmap.tpl
+END
+gmap_pickup_js.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/gmap/gmap_pickup_js.tpl
+END
+gmap_js.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/gmap/gmap_js.tpl
+END

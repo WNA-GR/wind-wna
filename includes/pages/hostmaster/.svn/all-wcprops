@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/branches/wind-php5/includes/pages/hostmaster
+END
+hostmaster_dnszone.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/branches/wind-php5/includes/pages/hostmaster/hostmaster_dnszone.php
+END
+hostmaster.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/branches/wind-php5/includes/pages/hostmaster/hostmaster.php
+END
+hostmaster_dnszones_schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/branches/wind-php5/includes/pages/hostmaster/hostmaster_dnszones_schema.php
+END
+hostmaster_dnszones.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/branches/wind-php5/includes/pages/hostmaster/hostmaster_dnszones.php
+END
+hostmaster_dnsnameserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/branches/wind-php5/includes/pages/hostmaster/hostmaster_dnsnameserver.php
+END
+hostmaster_range.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5/branches/wind-php5/includes/pages/hostmaster/hostmaster_range.php
+END
+hostmaster_dnsnameservers.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/branches/wind-php5/includes/pages/hostmaster/hostmaster_dnsnameservers.php
+END
+hostmaster_ranges.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/branches/wind-php5/includes/pages/hostmaster/hostmaster_ranges.php
+END

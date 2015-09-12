@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/hostmaster
+END
+hostmaster_range_form_range.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/hostmaster/hostmaster_range_form_range.tpl
+END
+hostmaster_dnsnameserver.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/hostmaster/hostmaster_dnsnameserver.tpl
+END
+hostmaster_range.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/hostmaster/hostmaster_range.tpl
+END
+hostmaster_dnszone_form_zone.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/hostmaster/hostmaster_dnszone_form_zone.tpl
+END
+hostmaster_ranges.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/hostmaster/hostmaster_ranges.tpl
+END
+hostmaster_dnsnameservers.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/hostmaster/hostmaster_dnsnameservers.tpl
+END
+hostmaster_dnszone.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/hostmaster/hostmaster_dnszone.tpl
+END
+hostmaster_dnszones.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/hostmaster/hostmaster_dnszones.tpl
+END
+hostmaster_dnszones_schema.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/hostmaster/hostmaster_dnszones_schema.tpl
+END

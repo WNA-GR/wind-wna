@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/admin
+END
+admin_regions_region.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/admin/admin_regions_region.tpl
+END
+admin_areas.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/admin/admin_areas.tpl
+END
+admin_nodes_services.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/admin/admin_nodes_services.tpl
+END
+admin_users.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/admin/admin_users.tpl
+END
+admin_services.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/admin/admin_services.tpl
+END
+admin_areas_area.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/admin/admin_areas_area.tpl
+END
+admin_services_service.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/admin/admin_services_service.tpl
+END
+admin_regions.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/admin/admin_regions.tpl
+END
+admin_nodes.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/branches/wind-php5/templates/basic/includes/pages/admin/admin_nodes.tpl
+END

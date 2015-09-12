@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5/branches/wind-php5/globals/classes
+END
+geoimage.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/branches/wind-php5/globals/classes/geoimage.php
+END
+geocalc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/branches/wind-php5/globals/classes/geocalc.php
+END
+mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/branches/wind-php5/globals/classes/mysqli.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/branches/wind-php5/globals/classes/form.php
+END
+message.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/branches/wind-php5/globals/classes/message.php
+END
+construct.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/branches/wind-php5/globals/classes/construct.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/branches/wind-php5/globals/classes/mysql.php
+END
+srtm.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/branches/wind-php5/globals/classes/srtm.php
+END
+table.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/branches/wind-php5/globals/classes/table.php
+END
+userdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/branches/wind-php5/globals/classes/userdata.php
+END

@@ -1,0 +1,29 @@
+;wind.wna.gr-reverse
+
+$ORIGIN .
+
+
+##NAMESERVERS##
+
+##ZONES##
+
+
+
+$ORIGIN 255.101.10.in-addr.arpa.
+
+$GENERATE 1-255 $ PTR $-NOT-FOUND.please-update-links-database-wind.wna.gr.
+
+$ORIGIN 255.100.10.in-addr.arpa.
+
+$GENERATE 1-255 $ PTR $-NOT-FOUND.please-update-links-database-wind.wna.gr.
+
+$ORIGIN 255.124.10.in-addr.arpa.
+
+$GENERATE 1-255 $ PTR $-NOT-FOUND.please-update-links-database-wind.wna.gr.
+
+$ORIGIN 255.125.10.in-addr.arpa.
+
+$GENERATE 1-255 $ PTR $-NOT-FOUND.please-update-links-database-wind.wna.gr.
+
+;Reverse backbone records
+##PTR##
